@@ -8,5 +8,13 @@ How to run the code:
 1. Ensure input file (train_df_sample.csv and test_df_sample.csv) and modelling file(isentia_modelling.ipynb) are all in the same folder
 2. Directly run isentia_modelling.ipynb to get the result step by step 
 
+Dependency:
+pandas 0.24.2
+numpy 1.18.4
+nltk  3.4
+gensim 3.8.1
+sklearn 0.20.3
+scipy  1.2.1
+matplotlib 3.0.3
 
 Solution document.doc is all analysis and answers to the questions 
