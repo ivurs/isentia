@@ -10,6 +10,7 @@ isentia_LDA_new.ipynb contains data loading, new LDA model and comparison betwee
 How to run the code:
 1. Ensure input file (train_df_sample_clean.pkl and test_df_sample_clean.pkl), reference image files and modelling file(isentia_LDA_new.ipynb) are all in the same folder
 2. Directly run isentia_LDA_new.ipynb to get the result step by step 
+3. PLEASE NOTE: You will need to run the pyldavis for new model on training and testing both, to get the visualization. The old model visualization are two images attached on notebook.
 
 Dependency:
 In addition to the previous dependency listed, we need a new one - pyLDAvis
