@@ -11,5 +11,7 @@ How to run the code:
 1. Ensure input file (train_df_sample_clean.pkl and test_df_sample_clean.pkl), reference image files and modelling file(isentia_LDA_new.ipynb) are all in the same folder
 2. Directly run isentia_LDA_new.ipynb to get the result step by step 
 
+Dependency:
+In addition to the previous dependency listed, we need a new one - pyLDAvis
 
 Brief conclusion has been drawn in the end of isentia_LDA_new.ipynb file. 
