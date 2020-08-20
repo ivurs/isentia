@@ -18,3 +18,6 @@ scipy  1.2.1
 matplotlib 3.0.3
 
 Solution document.doc is all analysis and answers to the questions 
+
+A little bit new findings:
+As can be seen in this image new topic keyword result.jpg, after I conduct a text clean and applied more strict BOW dictionary filter rule as described in above doc file, I think topics are more clear, such as China-US trading war, Women Cancer and health, New energy and so on, but I understand there is a time limit, so will not update the code for now.
